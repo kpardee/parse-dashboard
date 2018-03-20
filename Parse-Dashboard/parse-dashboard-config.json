@@ -1,12 +1,19 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
+    "serverURL": "https://enc-api.herokuapp.com/parse",
+    "appId": "dev0BaNMlSZgTVkCXm3zIggjaBDJVHnX8qLP9v00Vfh",
+    "appName": "ENC Alpha",
     "masterKey": "",
-    "appName": "",
     "iconName": "",
     "primaryBackgroundColor": "",
     "secondaryBackgroundColor": ""
   }],
+"users": [
+{
+"user": "tech@encardiawellness.com",
+"pass": "breathe2!"
+}
+],
   "iconsFolder": "icons"
 }
+
