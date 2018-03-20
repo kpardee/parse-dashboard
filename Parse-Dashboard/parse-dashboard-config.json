@@ -1,19 +1,20 @@
 {
-  "apps": [{
-    "serverURL": "https://enc-api.herokuapp.com/parse",
-    "appId": "dev0BaNMlSZgTVkCXm3zIggjaBDJVHnX8qLP9v00Vfh",
-    "appName": "ENC Alpha",
-    "masterKey": "",
-    "iconName": "",
-    "primaryBackgroundColor": "",
-    "secondaryBackgroundColor": ""
-  }],
-"users": [
-{
-"user": "tech@encardiawellness.com",
-"pass": "breathe2!"
+    "apps": [
+        {
+            "serverURL": "https://enc-api.herokuapp.com/parse",
+            "appId": "dev0BaNMlSZgTVkCXm3zIggjaBDJVHnX8qLP9v00Vfh",
+            "appName": "ENC Alpha",
+            "masterKey": "dev7AcnEUVRTyRYeKFUb9UOE02vflH3clFmJcGyawgW",
+            "iconName": "",
+            "primaryBackgroundColor": "",
+            "secondaryBackgroundColor": ""
+        }
+    ],
+    "users": [
+        {
+            "user": "tech@encardiawellness.com",
+            "pass": "breathe2!"
+        }
+    ],
+    "iconsFolder": "icons"
 }
-],
-  "iconsFolder": "icons"
-}
-
